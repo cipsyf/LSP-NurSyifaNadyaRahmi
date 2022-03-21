@@ -1,7 +1,7 @@
 # LSP-NurSyifaNadyaRahmi
 
-Klaster Pemrograman Dasar
+Day 1 - Klaster Pemrograman Dasar
 <br>
-Klaster Pmerograman Web
+Day 2 - Klaster Pmerograman Web
 <br>
-Klaster Pemrograman Berorientasi Objek
+Day 3 (last day) - Klaster Pemrograman Berorientasi Objek
